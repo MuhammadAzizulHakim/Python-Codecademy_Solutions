@@ -1,0 +1,17 @@
+print bin(1)
+print bin(2)
+print bin(3)
+print bin(4)
+print bin(5)
+
+print oct(1)
+print oct(2)
+print oct(3)
+print oct(4)
+print oct(5)
+
+print hex(1)
+print hex(2)
+print hex(3)
+print hex(4)
+print hex(5)
