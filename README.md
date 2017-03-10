@@ -2,9 +2,13 @@
 codecademy.com Python solutions
 
 
+
+
 ##Course Outcomes
 
 This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you'll be familiar with Python syntax and you'll be able to put into practice what you'll have learned in a final project you'll develop locally.
+
+
 
 
 ##Why learn Python?
